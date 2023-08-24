@@ -1,0 +1,9 @@
+import styled from "styled-components";
+
+export const WrapperCard=styled.div`
+  padding: 5px;
+  border-radius: 8px;
+  display: inline-block;
+  border: 1px solid red;
+
+`
